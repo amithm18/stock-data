@@ -1,0 +1,23 @@
+[
+  {
+    "company": "Amazon",
+    "description": "Online shopping company",
+    "initial_price": 89.38,
+    "price_2007": 93.43,
+    "symbol": "AMZN"
+  },
+  {
+    "company": "Google",
+    "description": "Search engine company",
+    "initial_price": 120.50,
+    "price_2007": 150.75,
+    "symbol": "GOOG"
+  },
+  {
+    "company": "Microsoft",
+    "description": "Software company",
+    "initial_price": 75.20,
+    "price_2007": 95.10,
+    "symbol": "MSFT"
+  }
+]
